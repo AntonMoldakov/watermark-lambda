@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.95.0",
+    "axios": "^0.26.1",
+    "jimp": "^0.16.1"
+  }
+}
